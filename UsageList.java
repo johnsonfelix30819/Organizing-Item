@@ -3,8 +3,8 @@ it contains
 	put(String) (void) - stores string in the list
 	get(index)  (String) - gets string from list with index number
 	get(String)	(int) - gets index number of string
-	getLeastUsed	(String) - gets least used item in the list
-	update			(void) - orders list according to ussage in the order of most used to least used at the last
+	getLeastUsed()	(String) - gets least used item in the list
+	update()			(void) - orders list according to ussage in the order of most used to least used at the last
 */
 
 package usagelist;
